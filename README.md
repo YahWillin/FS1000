@@ -1,5 +1,16 @@
 # FS1000
-Full Stack Project Submissions
+Individual Project Submission 
+
+User Stories
+
+Main User -
+
+As a consumer, I want to buy exclusive YWN clothing online so I can save on expenses and time. 
+
+Admin -
+
+As the administrator of this application, I want to create a marketplace where users can buy exclusive YWN clothing so that my brand and business can grow
+
 
 Figma Designs
 
